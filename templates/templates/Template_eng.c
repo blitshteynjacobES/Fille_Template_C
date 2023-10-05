@@ -24,6 +24,9 @@
 /*-- variable declaration --*/
 
 
+/*-- function declaration --*/
+
+
 /*-- main fontion --*/
 
 

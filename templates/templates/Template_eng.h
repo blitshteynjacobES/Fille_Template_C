@@ -16,7 +16,13 @@
 */
 
 /*-- definition --*/
+#ifndef TEMPLATE_ENG_H
+	#define TEMPLATE_ENG_H
 
+/*-- prototypes --*/
+
+
+#endif 
 
 /*-- declaration --*/
 

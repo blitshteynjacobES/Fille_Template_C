@@ -24,6 +24,9 @@
 /*-- déclaration variable --*/
 
 
+/*-- déclaration fonction --*/
+
+
 /*-- fontion princpale --*/
 
 
