@@ -22,10 +22,10 @@
 /*-- prototypes --*/
 
 
-#endif 
-
 /*-- constantes globale --*/
 
+
+#endif 
 
 /*-- documentation --*/
 
