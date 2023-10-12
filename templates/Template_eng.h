@@ -24,9 +24,6 @@
 
 #endif 
 
-/*-- declaration --*/
-
-
 /*-- global constants --*/
 
 
